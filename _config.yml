@@ -1,7 +1,7 @@
-public:
+public: true
 type: "docs"
 
-title:
-description:
+title: "Use of AI in Our Archival Processes"
+description: "Statement on the use of artificial intelligence (AI) in archival processes at the Rockefeller Archive Center." 
 pages:
-  - ["Documentation Title", "index"]
+  - ["Use of AI in Our Archival Processes", "index"]
