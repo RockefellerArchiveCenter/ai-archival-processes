@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Use of AI in Our Archival Processes"
+title:  "AI Use in Our Archival Processes"
 ---
 
 ## Contextualizing, Defining, and Evaluating AI 
