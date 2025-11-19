@@ -1,4 +1,4 @@
-# Use of AI in Archival Processes at the Rockefeller Archive Center
+# AI Use in Archival Processes at the Rockefeller Archive Center
 Statement on the use of artificial intelligence (AI) in archival processes at the Rockefeller Archive Center.
 
 ## Accessing the documentation
